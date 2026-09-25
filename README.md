@@ -132,4 +132,4 @@ Other notes:
 
 ## 7. Author
 
-**Your Name** | [LinkedIn](www.linkedin.com/in/aditya-s-verma-748645241) | [GitHub](https://github.com/adityasverma865-sys)
+**Aditya S Verma** | [LinkedIn](www.linkedin.com/in/aditya-s-verma-748645241) | [GitHub](https://github.com/adityasverma865-sys)
